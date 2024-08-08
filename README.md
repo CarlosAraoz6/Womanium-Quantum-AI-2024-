@@ -19,7 +19,7 @@ Contact Email: caa.ppbt90@gmail.com
 
 ## Challenge Title: Quantum Solutions for the Poisson Equation: Implementing the HHL Algorithm
 
-Challenge Description:
+### Challenge Description:
 
 In this project, we implemented the Harrow-Hassidim-Lloyd (HHL) algorithm to solve the Poisson equation, leveraging the power of quantum computing to address this fundamental partial differential equation. The Poisson equation plays a significant role in various scientific and engineering applications, making it an excellent candidate for demonstrating the advantages of quantum algorithms over classical methods.
 
@@ -28,8 +28,8 @@ Our solution includes the following elements:
 
 Slide Presentation (PDF Format): A comprehensive presentation outlining our approach, methodology, and results. The slide presentation is named "QuantumPoissonSolver-Slides.pdf" and covers the theoretical background, implementation steps, and conclusions drawn from the project.
 
-Jupyter Notebookk "Quantum_AI_for_Climate final.ipynb" :
-1. Problem Statement
+### Jupyter Notebookk "Quantum_AI_for_Climate final.ipynb" :
+#### 1. Problem Statement
 
 
 + Introduces the problem of solving the Poisson equation using quantum algorithms.
@@ -41,7 +41,7 @@ Jupyter Notebookk "Quantum_AI_for_Climate final.ipynb" :
 + Includes simulation results using quantum simulators to validate the approach.
 
 
-2. Classical Methods for Solving the Poisson Equation
+#### 2. Classical Methods for Solving the Poisson Equation
    
 
 + Focuses on classical methods traditionally used to solve the Poisson equation.
@@ -54,7 +54,7 @@ Jupyter Notebookk "Quantum_AI_for_Climate final.ipynb" :
 
 
 
-3. AI/ML and Quantum Computing Techniques
+#### 3. AI/ML and Quantum Computing Techniques
    
 
 + Explores the integration of AI/ML and quantum computing techniques to enhance the quantum algorithm.
@@ -65,11 +65,8 @@ Jupyter Notebookk "Quantum_AI_for_Climate final.ipynb" :
 
 + Demonstrates the potential improvements and advantages offered by AI/ML and quantum computing.
 
-4. Methodology: AI/Quantum Methods
+#### 4. Methodology: AI/Quantum Methods
    
-
-Description:
-
 + Provides a detailed explanation of the AI/Quantum methodology used in the project.
 
 + Describes the process of developing and implementing the HHL algorithm.
@@ -79,16 +76,16 @@ Description:
 + Includes discussions on the challenges encountered and solutions implemented during the project.
 
 
-Execution and Simulation
+#### Execution and Simulation
 
 The quantum circuit is executed on a quantum simulator (AerSimulator) to simulate the behavior of a quantum computer. The results are visualized using histograms.s.
 
-Additional Notes
+#### Additional Notes
 
 Some files may need to be downloaded to view them correctly.
 
 
-Submission Details
+#### Submission Details
 
-Repository Link: [Add the GitHub repository link here]
+Repository Link: https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/tree/main
 Submission Deadline: August 9, 2024, 23:59pm US ET
