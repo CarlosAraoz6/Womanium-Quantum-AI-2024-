@@ -28,28 +28,65 @@ Our solution includes the following elements:
 
 Slide Presentation (PDF Format): A comprehensive presentation outlining our approach, methodology, and results. The slide presentation is named "QuantumPoissonSolver-Slides.pdf" and covers the theoretical background, implementation steps, and conclusions drawn from the project.
 
-Jupyter Notebookk :
+Jupyter Notebookk "Quantum_AI_for_Climate final.ipynb" :
 1. Problem Statement
 
-Description: Introduces the problem, lays the theoretical groundwork, and presents the step-by-step construction of the quantum algorithm based on the HHL method. Includes simulation results using quantum simulators to validate our approach.
+Description:
+Introduces the problem of solving the Poisson equation using quantum algorithms.
+
+Lays the theoretical groundwork, including the mathematical formulation.
+
+Presents the step-by-step construction of the quantum algorithm based on the HHL method.
+
+Includes simulation results using quantum simulators to validate the approach.
+
 
 2. Classical Methods for Solving the Poisson Equation
+   
+
+Description:
+
+Focuses on classical methods traditionally used to solve the Poisson equation.
+
+Compares these classical methods with the quantum approach implemented in Task 1.
+
+Discusses the design and implementation of the quantum circuit used in the HHL algorithm.
+
+Covers initialization of the quantum state corresponding to vector b, construction of the quantum circuit with Qiskit, implementation of Quantum Phase Estimation, and Inverse Quantum Fourier Transform.
+
+Analyzes and compares results.
 
 
-Description: Focuses on the design and implementation of the quantum circuit used in the HHL algorithm. Covers initialization of the quantum state, construction of the quantum circuit with Qiskit, implementation of Quantum Phase Estimation and Inverse Quantum Fourier Transform, and analysis of results.
 
 3. AI/ML and Quantum Computing Techniques
+   
+Description:
 
+Explores the integration of AI/ML and quantum computing techniques to enhance the quantum algorithm.
 
-Description: Presents the final optimization and analysis of our quantum algorithm. Includes refinement of the quantum circuit, application of noise models to simulate real-world quantum computing conditions, and comparison with classical methods.
+Refines the quantum circuit and applies noise models to simulate real-world quantum computing conditions.
+
+Analyzes the results and compares them with classical methods.
+
+Demonstrates the potential improvements and advantages offered by AI/ML and quantum computing.
 
 4. Methodology: AI/Quantum Methods
    
-We implement the HHL algorithm to solve the Poisson equation, following the methodology outlined in relevant research papers.
-The code is structured to initialize the quantum state, apply the necessary quantum gates, perform Quantum Phase Estimation, and measure the results.
+
+Description:
+
+Provides a detailed explanation of the AI/Quantum methodology used in the project.
+
+Describes the process of developing and implementing the HHL algorithm.
+
+Highlights the key findings and improvements achieved through the integration of quantum computing techniques.
+
+Includes discussions on the challenges encountered and solutions implemented during the project.
+
 
 Execution and Simulation
-The quantum circuit is executed on a quantum simulator (AerSimulator) to simulate the behavior of a quantum computer. The results are visualized using histograms.
+
+The quantum circuit is executed on a quantum simulator (AerSimulator) to simulate the behavior of a quantum computer. The results are visualized using histograms.s.
 
 Additional Notes
 
