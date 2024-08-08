@@ -6,9 +6,13 @@
 ### Team: QAI Climate MX
 
 Team Members
-#### Name: Carlos Aráoz Alvarado
+
+Name: Carlos Aráoz Alvarado
+
 Discord ID: Carlos Aráoz#5582
+
 Github ID: CarlosAraoz6
+
 Contact Email: caa.ppbt90@gmail.com
 
 
