@@ -9,9 +9,11 @@ Team Members
 
 Name: Carlos Aráoz Alvarado
 
-Discord ID: Carlos Aráoz#5582
+Discord ID: 733107032454070292
 
-Github ID: CarlosAraoz6
+Discord User: Carlos Aráoz#5582
+
+Github User: CarlosAraoz6
 
 Contact Email: caa.ppbt90@gmail.com
 
