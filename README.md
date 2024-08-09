@@ -38,6 +38,9 @@ All information in this section will be considered for project submission and ju
 Ensure your repository is public and submitted by August 9, 2024, 23:59pm US ET.
 
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Womanium-Quantum-AI-2024-
 
