@@ -29,9 +29,11 @@ Our solution includes the following elements:
 
 **Slide Presentation (PDF Format):** A comprehensive presentation outlining our approach, methodology, and results. The slide presentation is named **"QuantumPoissonSolver-Slides.pdf"** and covers the theoretical background, implementation steps, and conclusions drawn from the project. Link: https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/QuantumPoissonSolver-Slides.pdf
 
-### Jupyter Notebook pdf "Quantum_AI_for_Climate.pdf": https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/Quantum_AI_for_Climate.pdf
+### Jupyter Notebook pdf "Quantum_AI_for_Climate.pdf": 
+https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/Quantum_AI_for_Climate.pdf
 
-### Jupyter Notebook "Quantum_AI_for_Climate final.ipynb" : https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/Quantum_AI_for_Climate%20final.ipynb
+### Jupyter Notebook "Quantum_AI_for_Climate final.ipynb" : 
+https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/Quantum_AI_for_Climate%20final.ipynb
 
 #### 1. Problem Statement and Background
 
