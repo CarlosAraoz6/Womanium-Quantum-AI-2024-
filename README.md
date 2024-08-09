@@ -42,10 +42,10 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Womanium-Quantum-AI-2024-
+
 
 ## Quantum Solutions for the Poisson Equation: Implementing the HHL Algorithm
-### Womanium Quantum Hackathon 2024
+
 
 ### Team: QAI Climate MX
 
