@@ -32,11 +32,16 @@ Womanium Quantum+AI 2024 Projects
 + Click here to view the project description.
 + YouTube recording of project description - link
   
+# Project Submission:
+All information in this section will be considered for project submission and judging.
 
+Ensure your repository is public and submitted by August 9, 2024, 23:59pm US ET.
+
+Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Womanium-Quantum-AI-2024-
 
-# Quantum Solutions for the Poisson Equation: Implementing the HHL Algorithm
+## Quantum Solutions for the Poisson Equation: Implementing the HHL Algorithm
 ### Womanium Quantum Hackathon 2024
 
 ### Team: QAI Climate MX
@@ -58,7 +63,7 @@ Github User: CarlosAraoz6
 Contact Email: caa.ppbt90@gmail.com
 
 
-### Project Solution:
+## Project Solution:
 
 In this project, we implemented the Harrow-Hassidim-Lloyd (HHL) algorithm to solve the Poisson equation, leveraging the power of quantum computing to address this fundamental partial differential equation. The Poisson equation plays a significant role in various scientific and engineering applications, making it an excellent candidate for demonstrating the advantages of quantum algorithms over classical methods.
 
