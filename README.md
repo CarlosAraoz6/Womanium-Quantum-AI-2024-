@@ -9,6 +9,8 @@ Team Members
 
 Name: Carlos Aráoz Alvarado
 
+Womanium Program Enrollment ID: WQ24-DGswXJgrkDCLVoT
+
 Discord ID: 733107032454070292
 
 Discord User: Carlos Aráoz#5582
@@ -27,7 +29,10 @@ Our solution includes the following elements:
 
 **Slide Presentation (PDF Format):** A comprehensive presentation outlining our approach, methodology, and results. The slide presentation is named **"QuantumPoissonSolver-Slides.pdf"** and covers the theoretical background, implementation steps, and conclusions drawn from the project. Link: https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/QuantumPoissonSolver-Slides.pdf
 
-### Jupyter Notebookk "Quantum_AI_for_Climate final.ipynb" : https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/Quantum_AI_for_Climate%20final.ipynb
+### Jupyter Notebook pdf "Quantum_AI_for_Climate.pdf": https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/Quantum_AI_for_Climate.pdf
+
+### Jupyter Notebook "Quantum_AI_for_Climate final.ipynb" : https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/Quantum_AI_for_Climate%20final.ipynb
+
 #### 1. Problem Statement and Background
 
 The first section of the Jupyter notebook addresses the problem statement and background for the project. It provides a detailed explanation of the Poisson equation, a fundamental partial differential equation (PDE) used in various scientific and engineering fields. The section highlights the significance of the Poisson equation in modeling static fields and its applications in areas such as groundwater flow simulation, weather prediction, photovoltaic cell optimization, and carbon sequestration.
