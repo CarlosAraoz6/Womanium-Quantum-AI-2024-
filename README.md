@@ -1,6 +1,6 @@
 ### Womanium-Quantum-AI-2024-
 
-# Quantum Poisson Equation Solver with HHL Algorithm
+# Quantum Solutions for the Poisson Equation: Implementing the HHL Algorithm
 ### Womanium Quantum Hackathon 2024
 
 ### Team: QAI Climate MX
