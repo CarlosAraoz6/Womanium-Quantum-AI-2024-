@@ -18,9 +18,6 @@ Github User: CarlosAraoz6
 Contact Email: caa.ppbt90@gmail.com
 
 
-
-## Challenge Title: Quantum Solutions for the Poisson Equation: Implementing the HHL Algorithm
-
 ### Challenge Description:
 
 In this project, we implemented the Harrow-Hassidim-Lloyd (HHL) algorithm to solve the Poisson equation, leveraging the power of quantum computing to address this fundamental partial differential equation. The Poisson equation plays a significant role in various scientific and engineering applications, making it an excellent candidate for demonstrating the advantages of quantum algorithms over classical methods.
