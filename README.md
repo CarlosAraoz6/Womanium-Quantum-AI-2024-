@@ -27,7 +27,8 @@ In this project, we implemented the Harrow-Hassidim-Lloyd (HHL) algorithm to sol
 Project Deliverables:
 Our solution includes the following elements:
 
-**Slide Presentation (PDF Format):** A comprehensive presentation outlining our approach, methodology, and results. The slide presentation is named **"QuantumPoissonSolver-Slides.pdf"** and covers the theoretical background, implementation steps, and conclusions drawn from the project. Link: https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/QuantumPoissonSolver-Slides.pdf
+**Slide Presentation (PDF Format):** A comprehensive presentation outlining our approach, methodology, and results. The slide presentation is named **"QuantumPoissonSolver-Slides.pdf"** and covers the theoretical background, implementation steps, and conclusions drawn from the project.
+Link: https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/QuantumPoissonSolver-Slides.pdf
 
 ### Jupyter Notebook pdf "Quantum_AI_for_Climate.pdf": 
 Link: https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/Quantum_AI_for_Climate.pdf
