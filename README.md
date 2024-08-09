@@ -1,3 +1,39 @@
+
+# Quantum-AI-for-Climate
+Womanium Quantum+AI 2024 Projects
+
+**Please review the participation guidelines here before starting the project.**
+
+**Do NOT delete/ edit the format of this read.me file.**
+
+**Include all necessary information only as per the given format.**
+
+## Project Information:
+### Team Size:
+
++ Maximum team size = 4
++ 
++ While individual participation is also welcome, we highly recommend team participation :)
++ 
+### Eligibility:
+
++ All nationalities, genders, and age groups are welcome to participate in the projects.
+  
++ All team participants must be enrolled in Womanium Quantum+AI 2024.
+  
++ Everyone is eligible to participate in this project and win Womanium grants.
+  
++ All successful project submissions earn the Womanium Project Certificate.
+
++ Best participants win Womanium QSL fellowships with NNL. Please review the eligibility criteria for QSL fellowships in the project description below.
+  
+### Project Description:
+
++ Click here to view the project description.
++ YouTube recording of project description - link
+  
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Womanium-Quantum-AI-2024-
 
 # Quantum Solutions for the Poisson Equation: Implementing the HHL Algorithm
@@ -5,7 +41,9 @@
 
 ### Team: QAI Climate MX
 
-Team Members
+## Team Information: 
+
+Team Member 1:
 
 Name: Carlos Aráoz Alvarado
 
@@ -20,15 +58,14 @@ Github User: CarlosAraoz6
 Contact Email: caa.ppbt90@gmail.com
 
 
-### Challenge Description:
+### Project Solution:
 
 In this project, we implemented the Harrow-Hassidim-Lloyd (HHL) algorithm to solve the Poisson equation, leveraging the power of quantum computing to address this fundamental partial differential equation. The Poisson equation plays a significant role in various scientific and engineering applications, making it an excellent candidate for demonstrating the advantages of quantum algorithms over classical methods.
 
 Project Deliverables:
 Our solution includes the following elements:
 
-**Slide Presentation (PDF Format):** A comprehensive presentation outlining our approach, methodology, and results. The slide presentation is named **"QuantumPoissonSolver-Slides.pdf"** and covers the theoretical background, implementation steps, and conclusions drawn from the project.
-Link: https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/QuantumPoissonSolver-Slides.pdf
+
 
 ### Jupyter Notebook pdf "Quantum_AI_for_Climate.pdf": 
 Link: https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/Quantum_AI_for_Climate.pdf
@@ -117,6 +154,13 @@ The implementation of the HHL algorithm to solve the Poisson equation in this pr
 
 #### Conclusion
 The HHL algorithm successfully demonstrated its capability to solve the Poisson equation on a quantum simulator, with the majority of measurements aligning with the expected solution. Despite the impact of noise, the results confirm the algorithm's potential in quantum computing applications, particularly for solving complex partial differential equations. Future work could focus on mitigating noise effects and scaling the algorithm to more qubits for broader applicability.
+
+
+## Project Presentation Deck:
+
+**Slide Presentation (PDF Format):** A comprehensive presentation outlining our approach, methodology, and results. The slide presentation is named **"QuantumPoissonSolver-Slides.pdf"** and covers the theoretical background, implementation steps, and conclusions drawn from the project.
+Link: https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/QuantumPoissonSolver-Slides.pdf
+
 
 
 
