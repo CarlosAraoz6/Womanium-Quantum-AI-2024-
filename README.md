@@ -12,9 +12,9 @@ Womanium Quantum+AI 2024 Projects
 ### Team Size:
 
 + Maximum team size = 4
-+ 
+  
 + While individual participation is also welcome, we highly recommend team participation :)
-+ 
+  
 ### Eligibility:
 
 + All nationalities, genders, and age groups are welcome to participate in the projects.
