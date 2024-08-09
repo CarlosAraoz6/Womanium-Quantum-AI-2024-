@@ -81,6 +81,8 @@ Link: https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/Quantu
 ### Jupyter Notebook "Quantum_AI_for_Climate final.ipynb" : 
 Link: https://github.com/CarlosAraoz6/Womanium-Quantum-AI-2024-/blob/main/Quantum_AI_for_Climate%20final.ipynb
 
+### Disclaimer: This README file provides a high-level summary of the project. For detailed explanations, code implementation, circuit diagrams, histograms, and in-depth result discussions, please refer to the Jupyter notebook included in this repository. The notebook contains all the essential sections, step-by-step code, visualizations, and analysis, offering a comprehensive view of the project's methodology and outcomes.
+
 #### 1. Problem Statement and Background
 
 The first section of the Jupyter notebook addresses the problem statement and background for the project. It provides a detailed explanation of the Poisson equation, a fundamental partial differential equation (PDE) used in various scientific and engineering fields. The section highlights the significance of the Poisson equation in modeling static fields and its applications in areas such as groundwater flow simulation, weather prediction, photovoltaic cell optimization, and carbon sequestration.
