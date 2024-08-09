@@ -46,13 +46,13 @@ The second section of the Jupyter notebook delves into the classical methods tra
 
 Readers will find descriptions of key classical approaches, including:
 
-+ Finite Difference Method (FDM): A straightforward method that converts the PDE into a system of algebraic equations using difference equations. It is effective for simple geometries but becomes computationally intensive for large-scale problems.
++ Finite Difference Method (FDM).
 
-+ Finite Element Method (FEM): A versatile technique that divides the domain into smaller sub-domains (elements) and uses test functions to convert the PDE into algebraic equations. It handles complex geometries more effectively but requires more sophisticated implementation and computational resources.
++ Finite Element Method (FEM).
 
-+ Multigrid Methods: These methods accelerate the convergence of iterative solvers by solving the problem on a hierarchy of grids. They offer fast convergence for large-scale problems but have complex implementations that require careful parameter tuning.
++ Multigrid Methods.
 
-+ Spectral Methods: These represent the solution as a sum of basis functions and are highly accurate for smooth solutions. However, they may struggle with complex geometries and discontinuities.
++ Spectral Methods.
 
 The section also highlights the challenges and limitations of these classical methods, particularly in terms of computational complexity and resource demands, especially as problem sizes increase. This underscores the need to explore alternative approaches, such as quantum computing and AI/ML techniques, to advance the field.
 
@@ -68,17 +68,17 @@ The third section of the Jupyter notebook explores how AI/ML and quantum computi
 
 This section includes:
 
-+ Quantum Computing Approaches: An overview of how quantum computing has been leveraged to reduce the computational costs associated with solving partial differential equations (PDEs) like the Poisson equation. The section details how quantum simulations have been used in semiconductor physics, particularly in analyzing gate insulators, demonstrating the advantages of quantum parallelism.
++ Quantum Computing Approaches.
 
-+ Harrow, Hassidim, and Lloyd (HHL) Algorithm: A significant focus is placed on the HHL algorithm, which is designed to solve systems of linear equations exponentially faster than classical methods under certain conditions. The notebook explains how the HHL algorithm can be applied to solve the Poisson equation by discretizing it into a sparse matrix form and using quantum operations to find the solution.
++ Harrow, Hassidim, and Lloyd (HHL) Algorithm.
 
-+ Variational Quantum Algorithms (VQAs): The section also covers VQAs, hybrid algorithms that combine quantum and classical computing resources to solve optimization problems. Examples include the Variational Quantum Eigensolver (VQE) and the Quantum Approximate Optimization Algorithm (QAOA), which have been successfully applied to solve the Poisson equation.
++ Variational Quantum Algorithms (VQAs).
 
-+ Quantum Algorithm for NISQ Devices: The discussion includes algorithms developed for noisy intermediate-scale quantum (NISQ) devices, which are current quantum computers with limited qubits and error correction capabilities. The section highlights the importance of constructing quantum algorithms that can be implemented on these devices to perform meaningful computations.
++ Quantum Algorithm for NISQ Devices.
 
-+ Comparative Analysis: The advantages and disadvantages of quantum algorithms compared to classical methods are discussed. While classical methods like FDM, FEM, and Multigrid Methods are well-understood and effective for small problems, they face challenges with scalability and computational efficiency. Quantum algorithms, such as HHL and VQAs, offer significant speedups for large-scale problems but are currently limited by hardware constraints.
++ Comparative Analysis.
 
-+ Computational Resources: The section also details the computational resources required to implement these quantum algorithms, including the need for access to quantum computing hardware, sufficient qubits, and classical optimization techniques for parameter adjustment in VQAs.
++ Computational Resources.
 
 This section provides a comprehensive view of the cutting-edge techniques in quantum computing that hold the potential to revolutionize the way we solve the Poisson equation and similar PDEs.
 
